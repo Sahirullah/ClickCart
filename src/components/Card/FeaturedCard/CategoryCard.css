@@ -52,7 +52,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: #FFE26E;
+    background-color: #00173C;
     color: #000;
     padding: 12px;
     text-align: center;
@@ -110,8 +110,8 @@
     border-radius: 5px;
     font-size: 0.8rem;
     background-color: transparent;
-    border-color: #FFE26E;
+    border-color: #00173C;
     border-style: solid;
     font-weight: bold;
-    color: #FFE26E;
+    color: #00173C;
 }

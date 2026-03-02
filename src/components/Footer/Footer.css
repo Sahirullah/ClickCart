@@ -1,7 +1,7 @@
 .footer__container {
     height: auto;
     width: 100%;
-    background-color: #FFE26E;
+    background-color: #00173C;
     display: flex;
     flex-direction: column;
 }
@@ -31,7 +31,7 @@
 .footer__logo h2 {
     font-size: 1.8rem;
     font-weight: 700;
-    color: #333;
+    color: #ffffff;
     margin: 0;
     letter-spacing: 1px;
 }
@@ -45,7 +45,7 @@
 .footer__social__title {
     font-size: 0.95rem;
     font-weight: 600;
-    color: #333;
+    color: #ffffff;
     margin: 0;
     text-transform: uppercase;
     letter-spacing: 0.5px;
@@ -73,15 +73,15 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: rgba(0, 0, 0, 0.1);
-    color: #333;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #ffffff;
     transition: all 0.3s ease;
     text-decoration: none;
 }
 
 .social__link a:hover {
-    background-color: #333;
-    color: #FFE26E;
+    background-color: #ffffff;
+    color: #00173C;
     transform: translateY(-3px);
 }
 
@@ -105,7 +105,7 @@
 .footer__help__header h1 {
     font-size: 1.1rem !important;
     font-weight: 700 !important;
-    color: #333 !important;
+    color: #ffffff !important;
     margin: 0 !important;
     text-transform: uppercase !important;
     letter-spacing: 0.5px !important;
@@ -123,7 +123,7 @@
 }
 
 .help__link a {
-    color: #333 !important;
+    color: #ffffff !important;
     text-decoration: none !important;
     font-size: 0.95rem !important;
     transition: all 0.3s ease !important;
@@ -131,7 +131,7 @@
 }
 
 .help__link a:hover {
-    color: #000;
+    color: #161815;
     transform: translateX(5px);
 }
 
@@ -151,7 +151,7 @@
 .footer__contact__header h1 {
     font-size: 1.1rem !important;
     font-weight: 700 !important;
-    color: #333 !important;
+    color: #ffffff !important;
     margin: 0 !important;
     text-transform: uppercase !important;
     letter-spacing: 0.5px !important;
@@ -174,13 +174,13 @@
     display: flex !important;
     align-items: center !important;
     gap: 12px !important;
-    color: #333 !important;
+    color: #ffffff !important;
     font-size: 0.95rem !important;
 }
 
 .footer__contact svg {
     font-size: 1.2rem;
-    color: #333;
+    color: #ffffff;
     flex-shrink: 0;
 }
 
@@ -188,9 +188,9 @@
 .fotter__copyright__container {
     height: auto;
     width: 100%;
-    background-color: #333;
+    background-color: #161815;
     display: flex;
-    color: #FFE26E;
+    color: #ffffff;
     justify-content: center;
     align-items: center;
     flex-direction: row;
@@ -213,13 +213,13 @@
 .footer__terms__condition,
 .footer__privacy__policy {
     font-size: 0.9rem;
-    color: #FFE26E;
+    color: #ffffff;
 }
 
 .footer__copyright a,
 .footer__terms__condition a,
 .footer__privacy__policy a {
-    color: #FFE26E;
+    color: #ffffff;
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -227,7 +227,7 @@
 .footer__copyright a:hover,
 .footer__terms__condition a:hover,
 .footer__privacy__policy a:hover {
-    color: #fff;
+    color: #00173C;
     text-decoration: underline;
 }
 

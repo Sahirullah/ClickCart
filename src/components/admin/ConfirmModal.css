@@ -39,7 +39,7 @@
 .confirm-modal-header h3 {
     margin: 0;
     font-size: 18px;
-    color: #333;
+    color: #161815;
     font-weight: 600;
 }
 
@@ -75,7 +75,7 @@
 
 .btn-cancel {
     background-color: #f0f0f0;
-    color: #333;
+    color: #161815;
 }
 
 .btn-cancel:hover {

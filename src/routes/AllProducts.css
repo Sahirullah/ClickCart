@@ -13,7 +13,7 @@
 .all__products__header h1 {
     font-size: 2.5rem;
     font-weight: 700;
-    color: #333;
+    color: #161815;
     margin-bottom: 10px;
 }
 
@@ -41,7 +41,7 @@
     padding: 12px 24px;
     font-size: 1rem;
     font-weight: 600;
-    color: #333;
+    color: #161815;
     background-color: #fff;
     border: 2px solid #ddd;
     border-radius: 8px;
@@ -52,15 +52,15 @@
 }
 
 .filter__btn:hover {
-    border-color: #FFE26E;
+    border-color: #00173C;
     box-shadow: 0 4px 12px rgba(255, 226, 110, 0.2);
     transform: translateY(-2px);
 }
 
 .filter__btn.active {
-    background-color: #FFE26E;
-    border-color: #FFE26E;
-    color: #333;
+    background-color: #00173C;
+    border-color: #00173C;
+    color: #161815;
     box-shadow: 0 4px 12px rgba(255, 226, 110, 0.3);
 }
 
@@ -68,7 +68,7 @@
     padding: 12px 24px;
     font-size: 1rem;
     font-weight: 600;
-    color: #333;
+    color: #161815;
     background-color: #fff;
     border: 2px solid #ddd;
     border-radius: 8px;
@@ -78,16 +78,16 @@
 }
 
 .filter__btn:hover {
-    border-color: #FFE26E;
-    color: #FFE26E;
+    border-color: #00173C;
+    color: #00173C;
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(255, 226, 110, 0.2);
 }
 
 .filter__btn.active {
-    background-color: #FFE26E;
-    color: #333;
-    border-color: #FFE26E;
+    background-color: #00173C;
+    color: #161815;
+    border-color: #00173C;
     box-shadow: 0 4px 12px rgba(255, 226, 110, 0.3);
 }
 
@@ -102,7 +102,7 @@
 .price__filter__container h3 {
     font-size: 1.1rem;
     font-weight: 600;
-    color: #333;
+    color: #161815;
     margin: 0 0 20px 0;
 }
 
@@ -129,7 +129,7 @@
     width: 100%;
     height: 6px;
     border-radius: 3px;
-    background: linear-gradient(to right, #FFE26E 0%, #FFE26E 100%);
+    background: linear-gradient(to right, #00173C 0%, #00173C 100%);
     outline: none;
     -webkit-appearance: none;
     appearance: none;
@@ -142,14 +142,14 @@
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background: #FFE26E;
+    background: #00173C;
     cursor: pointer;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     transition: all 0.3s ease;
 }
 
 .price__slider::-webkit-slider-thumb:hover {
-    background: #FFD700;
+    background: #161815;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -157,7 +157,7 @@
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background: #FFE26E;
+    background: #00173C;
     cursor: pointer;
     border: none;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
@@ -165,7 +165,7 @@
 }
 
 .price__slider::-moz-range-thumb:hover {
-    background: #FFD700;
+    background: #161815;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -177,7 +177,7 @@
     background-color: #f5f5f5;
     border-radius: 8px;
     font-weight: 600;
-    color: #333;
+    color: #161815;
 }
 
 .price__display span {

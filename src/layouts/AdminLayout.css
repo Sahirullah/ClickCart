@@ -23,7 +23,7 @@
   margin: 0;
   font-size: 24px;
   font-weight: 700;
-  color: #FFE26E;
+  color: #00173C;
 }
 
 .admin-nav {
@@ -51,7 +51,7 @@
 .nav-item:hover {
   background: rgba(255, 255, 255, 0.1);
   color: white;
-  border-left-color: #FFE26E;
+  border-left-color: #00173C;
 }
 
 .nav-item .icon {

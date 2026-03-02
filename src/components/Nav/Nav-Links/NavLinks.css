@@ -1,15 +1,15 @@
 a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: #00173C;
 }
 
 a:hover {
-    color: black;
+    color: #00173C;
 }
 
 .nav__bottom__container a {
     text-decoration: none;
-    color: rgb(3, 3, 3);
+    color: #161815;
     width: 80px;
     display: flex;
     justify-content: center;
@@ -17,7 +17,7 @@ a:hover {
 }
 
 .nav__bottom__container a:hover {
-    color: #0A58CA;
+    color: #00173C;
 }
 
 .nav__bottom__container {
@@ -49,7 +49,7 @@ a:hover {
 }
 
 .container .nav-link {
-    color: black;
+    color: #161815;
 }
 
 .dropdown-link {
@@ -79,14 +79,19 @@ a:hover {
 }
 
 .dropdown-item:hover {
-    background-color: #FFE26E;
+    background-color: #00173C;
+    color: #ffffff;
 }
 
 .dropdown-item a {
     width: 100%;
     display: block;
     text-decoration: none;
-    color: rgb(3, 3, 3);
+    color: #161815;
+}
+
+.dropdown-item:hover a {
+    color: #ffffff;
 }
 
 .control__small {

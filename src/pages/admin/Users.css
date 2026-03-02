@@ -12,7 +12,7 @@
 .users-header h2 {
     margin: 0;
     font-size: 28px;
-    color: #333;
+    color: #161815;
 }
 
 .users-header p {
@@ -52,7 +52,7 @@
 }
 
 .users-stats strong {
-    color: #333;
+    color: #161815;
     margin-left: 5px;
 }
 
@@ -76,7 +76,7 @@
     padding: 15px;
     text-align: left;
     font-weight: 600;
-    color: #333;
+    color: #161815;
     border-bottom: 2px solid #dee2e6;
 }
 
@@ -91,7 +91,7 @@
 
 .user-name {
     font-weight: 500;
-    color: #333;
+    color: #161815;
 }
 
 .role-tag {
@@ -172,7 +172,7 @@
 
 .no-users h3 {
     margin: 0 0 10px 0;
-    color: #333;
+    color: #161815;
 }
 
 .no-users p {

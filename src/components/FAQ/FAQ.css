@@ -11,7 +11,7 @@
 .faq__title {
     font-size: 1.8rem;
     font-weight: 500;
-    color: #333;
+    color: #161815;
     margin: 0 0 40px 0;
     display: flex;
     align-items: center;
@@ -62,7 +62,7 @@
     align-items: center;
     font-size: 1rem;
     font-weight: 400;
-    color: #333;
+    color: #161815;
     transition: all 0.3s ease;
     text-align: left;
 }
@@ -73,7 +73,7 @@
 
 .faq__question.active {
     background-color: transparent;
-    color: #333;
+    color: #161815;
 }
 
 .faq__icon {

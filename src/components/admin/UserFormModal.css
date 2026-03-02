@@ -20,7 +20,7 @@
     display: block;
     margin-bottom: 8px;
     font-weight: 500;
-    color: #333;
+    color: #161815;
 }
 
 .user-form input[type="text"],
@@ -60,7 +60,7 @@
 
 .checkbox-group span {
     font-weight: 500;
-    color: #333;
+    color: #161815;
 }
 
 .checkbox-group small {
@@ -92,7 +92,7 @@
 
 .btn-cancel {
     background: #f8f9fa;
-    color: #333;
+    color: #161815;
 }
 
 .btn-cancel:hover {

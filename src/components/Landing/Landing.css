@@ -9,14 +9,14 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap-reverse;
-    background-color: #ffe26e;
+    background-color: #00173C;
     position: relative;
 }
 
 
 .landing__header a {
     text-decoration: none;
-    color: #000;
+    color: #ffffff;
 }
 
 .landing__header__container {
@@ -42,10 +42,12 @@
 .landing__header__main {
     font-size: 4.0rem;
     font-weight: 800;
+    color: #ffffff;
 }
 
 .landing__header__discount {
     font-size: 1.2rem;
+    color: #ffffff;
 }
 
 .landing__button {

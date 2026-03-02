@@ -75,7 +75,7 @@
 .success-title {
     font-size: 28px;
     font-weight: 700;
-    color: #333;
+    color: #161815;
     margin: 0 0 12px 0;
 }
 
@@ -103,8 +103,8 @@
 .success-btn {
     width: 100%;
     padding: 14px 24px;
-    background: linear-gradient(135deg, #FFE26E 0%, #FFD700 100%);
-    color: #333;
+    background: linear-gradient(135deg, #00173C 0%, #161815 100%);
+    color: #161815;
     border: none;
     border-radius: 8px;
     font-size: 16px;

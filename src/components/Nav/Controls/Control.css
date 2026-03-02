@@ -27,14 +27,14 @@
     justify-content: center;
     align-items: center;
     border-style: solid;
-    border-color: #FFE26E;
+    border-color: #00173C;
     border-radius: 10px;
     cursor: pointer;
     margin: 5px;
 }
 
 .control:hover {
-    background-color: #FFE26E;
+    background-color: #00173C;
     color: black;
 }
 
@@ -47,7 +47,7 @@
 .user-name {
     font-size: 14px;
     font-weight: 600;
-    color: #333;
+    color: #161815;
     max-width: 150px;
     overflow: hidden;
     text-overflow: ellipsis;

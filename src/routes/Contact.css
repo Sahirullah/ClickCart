@@ -7,17 +7,17 @@
 /* Hero Section */
 .contact__hero {
     width: 100%;
-    background: linear-gradient(135deg, #FFE26E 0%, #FFD700 100%);
+    background: linear-gradient(135deg, #00173C 0%, #161815 100%);
     padding: 80px 20px;
     text-align: center;
-    color: #333;
+    color: #161815;
 }
 
 .contact__hero__content h1 {
     font-size: 3rem;
     font-weight: 700;
     margin: 0 0 20px 0;
-    color: #333;
+    color: #161815;
 }
 
 .contact__hero__content p {
@@ -41,7 +41,7 @@
 }
 
 .contact__info__card {
-    background: linear-gradient(135deg, #FFE26E 0%, #FFD700 100%);
+    background: linear-gradient(135deg, #00173C 0%, #161815 100%);
     padding: 40px 30px;
     border-radius: 15px;
     text-align: center;
@@ -55,7 +55,7 @@
 
 .info__icon {
     font-size: 3rem;
-    color: #333;
+    color: #161815;
     margin-bottom: 20px;
     display: flex;
     justify-content: center;
@@ -68,7 +68,7 @@
 .contact__info__card h3 {
     font-size: 1.5rem;
     font-weight: 600;
-    color: #333;
+    color: #161815;
     margin: 0 0 15px 0;
 }
 
@@ -107,7 +107,7 @@
 .form__header h2 {
     font-size: 2rem;
     font-weight: 700;
-    color: #333;
+    color: #161815;
     margin: 0 0 10px 0;
 }
 
@@ -175,7 +175,7 @@
 .form__group label {
     font-size: 0.95rem;
     font-weight: 600;
-    color: #333;
+    color: #161815;
     margin-bottom: 8px;
 }
 
@@ -192,7 +192,7 @@
 .form__group input:focus,
 .form__group textarea:focus {
     outline: none;
-    border-color: #FFE26E;
+    border-color: #00173C;
     box-shadow: 0 0 0 3px rgba(255, 226, 110, 0.1);
 }
 
@@ -202,8 +202,8 @@
 }
 
 .submit__btn {
-    background: linear-gradient(135deg, #FFE26E 0%, #FFD700 100%);
-    color: #333;
+    background: linear-gradient(135deg, #00173C 0%, #161815 100%);
+    color: #161815;
     border: none;
     padding: 15px 30px;
     font-size: 1.1rem;
@@ -232,7 +232,7 @@
     display: inline-block;
     width: 16px;
     height: 16px;
-    border: 2px solid #333;
+    border: 2px solid #161815;
     border-top-color: transparent;
     border-radius: 50%;
     animation: spin 0.6s linear infinite;
@@ -254,7 +254,7 @@
     font-size: 2rem;
     font-weight: 700;
     text-align: center;
-    color: #333;
+    color: #161815;
     margin: 0 0 40px 0;
 }
 
@@ -280,7 +280,7 @@
 .contact__faq__section h2 {
     font-size: 1.8rem;
     font-weight: 500;
-    color: #333;
+    color: #161815;
     margin: 0 0 40px 0;
     display: flex;
     align-items: center;
@@ -324,7 +324,7 @@
     align-items: center;
     font-size: 1rem;
     font-weight: 400;
-    color: #333;
+    color: #161815;
     transition: all 0.3s ease;
     text-align: left;
 }

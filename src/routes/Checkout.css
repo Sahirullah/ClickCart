@@ -12,7 +12,7 @@
 .checkout-container h1 {
     font-size: 32px;
     margin-bottom: 30px;
-    color: #333;
+    color: #161815;
 }
 
 .checkout-content {
@@ -33,7 +33,7 @@
 .order-summary-section h2 {
     font-size: 24px;
     margin-bottom: 25px;
-    color: #333;
+    color: #161815;
 }
 
 .checkout-form .form-row {
@@ -50,7 +50,7 @@
     display: block;
     margin-bottom: 8px;
     font-weight: 500;
-    color: #333;
+    color: #161815;
 }
 
 .checkout-form input {
@@ -64,14 +64,14 @@
 
 .checkout-form input:focus {
     outline: none;
-    border-color: #FFE26E;
+    border-color: #00173C;
 }
 
 .pay-now-btn {
     width: 100%;
     padding: 16px;
-    background: #FFE26E;
-    color: black;
+    background: #00173C;
+    color: white;
     border: none;
     border-radius: 8px;
     font-size: 18px;
@@ -82,7 +82,7 @@
 }
 
 .pay-now-btn:hover {
-    background: #FFD700;
+    background: #161815;
     transform: scale(1.02);
 }
 
@@ -120,7 +120,7 @@
 .item-details h4 {
     margin: 0 0 8px 0;
     font-size: 16px;
-    color: #333;
+    color: #161815;
 }
 
 .item-details p {
@@ -145,7 +145,7 @@
     cursor: pointer;
     font-size: 18px;
     font-weight: bold;
-    color: #333;
+    color: #161815;
     transition: all 0.2s;
     display: flex;
     align-items: center;
@@ -154,21 +154,22 @@
 }
 
 .qty-btn:hover {
-    background: #FFE26E;
-    border-color: #FFE26E;
+    background: #00173C;
+    border-color: #00173C;
+    color: white;
 }
 
 .qty-display {
     min-width: 30px;
     text-align: center;
     font-weight: 600;
-    color: #333;
+    color: #161815;
 }
 
 .item-price {
     font-size: 18px;
     font-weight: bold;
-    color: #333;
+    color: #161815;
 }
 
 .remove-btn {
@@ -206,7 +207,7 @@
 .total-final {
     font-size: 20px;
     font-weight: bold;
-    color: #333;
+    color: #161815;
     margin-top: 15px;
     padding-top: 15px;
     border-top: 2px solid #eee;
@@ -300,7 +301,7 @@
 .success-modal-content h2 {
     margin: 0 0 10px 0;
     font-size: 28px;
-    color: #333;
+    color: #161815;
     font-weight: 600;
 }
 
@@ -338,7 +339,7 @@
 
 .detail-value {
     font-size: 14px;
-    color: #333;
+    color: #161815;
     font-weight: 600;
     word-break: break-all;
 }
@@ -353,7 +354,7 @@
 .success-modal-btn {
     width: 100%;
     padding: 14px 20px;
-    background: #FFE26E;
+    background: #00173C;
     color: black;
     border: none;
     border-radius: 8px;
@@ -365,7 +366,7 @@
 }
 
 .success-modal-btn:hover {
-    background: #FFD700;
+    background: #161815;
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(255, 226, 110, 0.3);
 }
